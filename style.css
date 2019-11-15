@@ -1,0 +1,47 @@
+body{
+  background-color:#336548;
+}
+nav a{
+  list-style:none;
+  text-decoration:none;
+}
+
+.header{
+  text-align:right;
+  background-color:#000;
+  font-color:#fff;
+  padding:20px;
+  padding-right:50px;
+}
+header nav a{
+  color:#fff;
+  padding-right:30px;
+}
+header nav a img{
+  float:left;
+  height:30px;
+}
+
+.welcome{
+  color:#fff;
+  padding:15px;
+}
+
+.social{
+  font-color:#000;
+  text-align:center;
+  font-size:25px;
+  padding:20px;
+  padding-left:50px;
+  padding-right:50px;
+}
+footer nav a{
+  color:#53bc80;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.copyright{
+  color:red;
+  float:right;
+}
